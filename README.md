@@ -21,8 +21,3 @@ Welcome to the Blog App repository! This application is built using the MERN (Mo
 ![Screenshot 3](https://user-images.githubusercontent.com/67452985/172217649-238abde0-1b29-40fe-a46e-1b5bb03678c8.png)
 
 
----
-
-Feel free to explore the codebase and start creating and sharing your blogs with the world! If you have any questions or need assistance, please don't hesitate to reach out.
-
-Happy blogging!
